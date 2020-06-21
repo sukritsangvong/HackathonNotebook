@@ -16,6 +16,12 @@ Questions I was responsible for:
 -  Identify demographic features of a district that could be used to distinguish districts with a high filing rate 
 from districts with a low filing rate?
 
-####Exlpaination on the outputs
+#### Exlpaination on the outputs
 
-ratio_frequency: the output shows the number of fillings 
+ratio_frequency: shows the number of fillings on all districts(43 to 69) and the number of fillings in Ratio over 100,000
+
+demographic_model: shows the demographics and the identification of high(1) and low(0) with the frequency of the filling in color
+
+#### Reflection
+
+There are A LOT that can be improved on my part. The primary things that I got from this competition are the basis of R, the understanding of federal civil cases data, the pain of data collection(on demographic), and what it takes to come up with a conclusion under the lens of a statistician. 
