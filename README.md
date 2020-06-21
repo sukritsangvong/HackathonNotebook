@@ -16,3 +16,6 @@ Questions I was responsible for:
 -  Identify demographic features of a district that could be used to distinguish districts with a high filing rate 
 from districts with a low filing rate?
 
+####Exlpaination on the outputs
+
+ratio_frequency: the output shows the number of fillings 
