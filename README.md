@@ -1,4 +1,4 @@
-# HackathronNotebook(MUDAC)
+# HackathonNotebook(MUDAC)
 
 This repository only contains the part that I was responsible for in the competition.
 
